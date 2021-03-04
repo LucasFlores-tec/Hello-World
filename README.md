@@ -2,4 +2,4 @@
 
 Starting from the basics.
 
-Hello folks, I hope you're all doing great during this crazy days!
+Hello folks, I hope you're all doing good during this crazy days!
